@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 # Ahmed Qannan
@@ -22,11 +22,11 @@ Helping students and developers build real-world projects and strong technical f
 
 </div>
 
----
+
 
 # 🚀 About Me
 
-```php
+<?php
 class AhmedQannan extends Developer
 {
     public $role = [
@@ -60,9 +60,7 @@ class AhmedQannan extends Developer
         return "Build impactful software and help developers grow.";
     }
 }
-````
-
----
+?>
 
 # 🛠 Tech Stack
 
@@ -143,4 +141,4 @@ class AhmedQannan extends Developer
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="35%" />
 
 </div>
-```
+
